@@ -1,0 +1,44 @@
+.map{
+  padding: 12px;
+  border-top: 1rpx #eeeeee solid;
+  border-bottom:1rpx #eeeeee solid;
+  height: 15px;
+}
+.wx-cell{
+  margin-bottom: 46rpx;
+  margin-left: 60rpx;
+  position: relative;
+}
+.cell-fd{
+  width: 50rpx;
+  height:50px;
+  position: absolute;
+  top:-6rpx;
+  right:0px;
+}
+.cell-bd{
+  font-size: 28rpx;
+  color:#666;
+}
+.slide-image{
+  width:100%;
+  height:400rpx;
+}
+.icon{
+  width: 40rpx;
+  height: 40rpx;
+}
+.icon-postion{
+  width: 50rpx;
+  height:50rpx;
+}
+.icon{
+  width: 50rpx;
+  height:50rpx;
+  position: absolute;
+  left:-55rpx;
+  top:-6rpx;
+}
+swiper{
+  height: 200px;
+}

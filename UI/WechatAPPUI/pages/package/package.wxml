@@ -1,0 +1,162 @@
+<view class='list'>
+      <navigator url="/pages/detail/detail" hover-class='navigator-hover'>
+          <view class="flex-wrp" style="flex-direction:row;">
+            <view class="bc_left">
+              <view class='flex-content;'>
+               <text>肩颈护理</text> 
+              </view>
+            </view>
+            <view class="bc_center">
+               <view style='font-weight:bold'>
+                 <text>肩颈护理10次</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                 <text>原价：￥1800</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                  套餐价：<text style='color:red' >￥1500</text>
+              </view>
+            </view>
+            <view class="bc_right">
+              <view class='flex-content'>已售1250件</view> 
+            </view>
+          </view>
+      </navigator>
+    </view>
+    <view class='swiperItem'>
+      <navigator url="/pages/detail/detail" hover-class='navigator-hover'>
+          <view class="flex-wrp" style="flex-direction:row;">
+            <view class="bc_left">
+              <view class='flex-content;'>
+               <text>肩颈护理</text> 
+              </view>
+            </view>
+            <view class="bc_center">
+               <view style='font-weight:bold'>
+                 <text>肩颈护理10次</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                 <text>原价：￥1800</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                  套餐价：<text style='color:red' >￥1500</text>
+              </view>
+            </view>
+            <view class="bc_right">
+              <view class='flex-content'>已售1250件</view> 
+            </view>
+          </view>
+      </navigator>
+    </view>
+    <view class='swiperItem'>
+      <navigator url="/pages/detail/detail" hover-class='navigator-hover'>
+          <view class="flex-wrp" style="flex-direction:row;">
+            <view class="bc_left">
+              <view class='flex-content;'>
+               <text>肩颈护理</text> 
+              </view>
+            </view>
+            <view class="bc_center">
+               <view style='font-weight:bold'>
+                 <text>肩颈护理10次</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                 <text>原价：￥1800</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                  套餐价：<text style='color:red' >￥1500</text>
+              </view>
+            </view>
+            <view class="bc_right">
+              <view class='flex-content'>已售1250件</view> 
+            </view>
+          </view>
+      </navigator>
+    </view>
+    <view class='swiperItem'>
+      <navigator url="/pages/detail/detail" hover-class='navigator-hover'>
+          <view class="flex-wrp" style="flex-direction:row;">
+            <view class="bc_left">
+              <view class='flex-content;'>
+               <text>肩颈护理</text> 
+              </view>
+            </view>
+            <view class="bc_center">
+               <view style='font-weight:bold'>
+                 <text>肩颈护理10次</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                 <text>原价：￥1800</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                  套餐价：<text style='color:red' >￥1500</text>
+              </view>
+            </view>
+            <view class="bc_right">
+              <view class='flex-content'>已售1250件</view> 
+            </view>
+          </view>
+      </navigator>
+    </view>
+    <view class='swiperItem'>
+     <navigator url="/pages/detail/detail" hover-class='navigator-hover'>
+          <view class="flex-wrp" style="flex-direction:row;">
+            <view class="bc_left">
+              <view class='flex-content;'>
+               <text>肩颈护理</text> 
+              </view>
+            </view>
+            <view class="bc_center">
+               <view style='font-weight:bold'>
+                 <text>肩颈护理10次</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                 <text>原价：￥1800</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                  套餐价：<text style='color:red' >￥1500</text>
+              </view>
+            </view>
+            <view class="bc_right">
+              <view class='flex-content'>已售1250件</view> 
+            </view>
+          </view>
+      </navigator>
+    </view>
+    <view class='swiperItem'>
+      <navigator url="/pages/detail/detail" hover-class='navigator-hover'>
+          <view class="flex-wrp" style="flex-direction:row;">
+            <view class="bc_left">
+              <view class='flex-content;'>
+               <text>肩颈护理</text> 
+              </view>
+            </view>
+            <view class="bc_center">
+               <view style='font-weight:bold'>
+                 <text>肩颈护理10次</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                 <text>原价：￥1800</text>
+               </view>
+               <view class='space'></view>
+               <view style='font-size:13px'>
+                  套餐价：<text style='color:red' >￥1500</text>
+              </view>
+            </view>
+            <view class="bc_right">
+              <view class='flex-content'>已售1250件</view> 
+            </view>
+          </view>
+      </navigator>
+    </view>

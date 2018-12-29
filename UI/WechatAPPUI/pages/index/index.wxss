@@ -1,0 +1,170 @@
+/**index.wxss**/
+@import '/utils/util.wxss';
+.plate{
+  height:240rpx;
+  background: #fff;
+}
+.plate-item{
+  display: flex;
+  float:left;
+  position: relative;
+  width: 140rpx;
+  height:180rpx;
+  margin-top:38rpx; 
+  margin-left:42rpx;
+}
+.plate-img image{
+  width: 100rpx;
+  height: 100rpx;
+}
+.plate-info{
+  position: absolute;
+  height:40rpx;
+  font-size: 30rpx;
+  font-family: '微软雅黑';
+  bottom: 60rpx;
+  left:-10rpx;
+
+}
+
+.app-title{
+ font-size: 36rpx;
+ font-family: '微软雅黑';
+ border-left:10rpx solid #4ec4c8;
+ margin-left: 20rpx;
+ margin-top: 20rpx;
+ text-indent: 15rpx;
+}
+
+.mod-item{
+ width:46%;
+ height:300rpx;
+ float: left;
+ margin-left:20rpx;
+ margin-top:40rpx;
+ position: relative;
+}
+.mod-signup{
+  position: absolute;
+}
+.mod-signup image{
+  width:76rpx;
+  height:42rpx;
+}
+.mod-img{
+  width:100%;
+  height:180rpx;
+} 
+.mod-image{
+  width: 100%;
+  height:180rpx;
+}
+.mod-title{
+  font-size:32rpx;
+  font-family: '微软雅黑';
+  display:flex;
+  height:45rpx;
+  margin-top:15rpx;
+  flex-direction:column;
+  justify-content: center;
+  text-overflow: -o-ellipsis-lastline;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.mod-info{
+  display: flex;
+  flex-direction: column;
+  height:40rpx;
+}
+.mod-icon{
+  display: flex;
+  flex-direction: row;
+  width: 40rpx;
+  height: 40rpx;
+}
+
+.moinfont{
+  font-size: 28rpx;
+  text-indent: 60rpx;
+  font-family: '微软雅黑';
+  color:#bfbfbf;
+}
+.more{
+  width:100%;
+  height: 100rpx;
+  display: flex;
+  flex-direction: column;
+  border-top:1rpx solid #eeeeee;
+  position: relative;
+}
+.more-info{
+  display: flex;
+  flex-direction: column;
+  font-size:32rpx;
+  font-family: '微软雅黑';
+  line-height: 98rpx;
+  text-indent: 30rpx;
+  color:#586C94;
+}
+.icon-jt{
+  position: absolute;
+  width:60rpx;
+  height:60rpx;
+  right:0rpx;
+  top:18rpx;
+}
+.iconjtimg{
+  width:60rpx;
+  height:60rpx;
+}
+.clear{
+  display: flex;
+  flex-direction: column;
+  height:10rpx;
+  background: #eeeeee;
+}
+.page-phone{
+  font-family: '微软雅黑';
+}
+.header{
+  padding: 41rpx;
+  position: relative;
+}
+.wx-title{
+  font-size: 46rpx;
+  font-weight: bold;
+}
+.wx-desc{
+  font-size: 32rpx;
+  color: #aaa;
+  line-height: 67rpx;
+}
+.logoimg{
+  width:100rpx;
+  height:100rpx;
+  position: absolute;
+  top:40rpx;
+  right:40rpx;
+}
+/*标签页面*/
+.tab{float: left; width: 48%;text-align: center;padding: 10rpx 0; }
+.topTabSwiper{border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; zoom: 1;}
+.topTabSwiper:after{content: ""; clear: both;display: block;}
+.tabBorer{border-bottom: 1px solid rgba(9, 138, 224, 0.836); color: rgba(9, 138, 224, 0.836);}
+.swiper{width: 100%;}
+.swiper_con{text-align: center; width: 100%; height: 100%; padding: 80rpx 0;}
+.flex-wrp {display: flex;}
+.bc_left {width:25%; height: 75px;color: white;background-color:rgba(9, 138, 224, 0.836); border-radius: 5px;}
+.bc_center {width:60%; height: 75px;padding-left: 10px}
+.bc_right {width:15%; height: 75px;font-size: 12px;text-align: center;}
+.swiperItem{
+  border-bottom:1rpx #eeeeee solid;
+  padding: 12px;
+}
+.flex-content{
+  line-height: 75px;
+  text-align: center;
+}
+.font-weight{
+  font-weight: bold;
+}

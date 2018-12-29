@@ -1,0 +1,8 @@
+{
+  "MongodbConnStr": {
+    "Host": "192.168.61.129:27017",
+    "Database": "MsHuang",
+    "UserName": "",
+    "Password": ""
+  }
+}

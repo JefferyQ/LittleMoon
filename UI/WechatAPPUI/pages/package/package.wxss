@@ -1,0 +1,24 @@
+.list{
+  border-bottom:1rpx #eeeeee solid;
+  padding: 12px;
+}
+.flex-content{
+  line-height: 75px;
+  text-align: center;
+}
+.font-weight{
+  font-weight: bold;
+}
+.bc_left {width:25%; height: 75px;color: white;background-color:rgba(9, 138, 224, 0.836); border-radius: 5px;}
+.bc_center {width:50%; height: 75px;padding-left: 10px}
+.bc_right {width:25%; height: 75px;font-size: 12px;text-align: center;}
+.swiperItem{
+  border-bottom:1rpx #eeeeee solid;
+  padding: 12px;
+}
+.flex-wrp{
+  display: flex;
+}
+.space{
+  height:10rpx;
+}

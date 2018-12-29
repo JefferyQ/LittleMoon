@@ -1,0 +1,51 @@
+<scroll-view>
+  <swiper indicator-dots="{{indicatorDots}}"
+  autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+    <block wx:for="{{imgUrls}}">
+      <swiper-item>
+        <image src="{{item}}" class="slide-image"/>
+      </swiper-item>
+    </block>
+</swiper>
+<view class="flex-wrp" style="flex-direction:row;display: flex;">
+    <view style='padding:10px;width:80%'>
+      <text style='font-weight:bold'>肩颈护理\n</text>
+      <text style='font-size:13px'>已售1250件\n</text>
+      <text style='color:red'><text style='font-size:11px' >￥</text>86\n</text>
+      <text style='font-size:13px'>时长：70分钟</text>
+    </view>
+    <view style='width:20%;padding-top:10px'>
+      <image src='{{shareimg}}' style='width:32px;height:32px' class='profile'></image>
+    </view>
+</view>
+  
+  <view class="map">
+    <view class="wx-cell">
+    <view class="icon">
+      <image src="{{adrimg}}" class="icon-postion"></image>
+    </view>
+    <view class="cell-bd" bindtap="getLocation">广西桂平市金田加油站对面黄姐理疗中心</view>
+    <view class="cell-fd">
+      <image src="{{phoneimg}}" class="icon-postion"></image>
+    </view>
+    </view>
+  </view>
+<view class='clear'></view>
+<view class="info">
+  <view class="in-title">详细信息</view>
+  <view class="in-info">
+    打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生
+    打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生打算的撒国史大纲萨嘎噶事是的噶十多个阿萨德高大上阿萨德打算收购阿三哥傻傻的噶啥的的国防生
+  </view>
+</view>
+</scroll-view>
+
+<view class="detail-nav">
+  <view style='width:70%;padding-left:15px;font-weight:bold'>
+    <text style='font-size:15px;color:red'>￥</text>
+    <text style='color:red;font-size:20px'>89</text>
+  </view>
+  <button class="button-red" bindtap="immeBuy" formType="submit">立即购买</button>
+</view>
+
+

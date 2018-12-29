@@ -1,0 +1,89 @@
+@import '/utils/util.wxss';
+.top{
+  display:flex;
+  flex-direction: row;
+  width:90%;
+  height:180rpx;
+  padding:10rpx 10rpx;
+  margin:10rpx auto;
+}
+.top-trimg{
+  width:160rpx;
+  height:160rpx;
+  margin:15rpx 20rpx; 
+  border-radius: 130rpx;
+}
+.top-info{
+  margin:15rpx 20rpx;
+  overflow: hidden; 
+  font-size: 32rpx;
+  font-family: "微软雅黑";
+  color:#606060;
+}
+.toin-info{
+  line-height: 60rpx;
+  font-size: 28rpx;
+}
+.in-title{
+  font-size: 32rpx;
+  font-family: "微软雅黑";
+  color:#606060;
+  line-height: 60rpx;
+  padding-left:20rpx;
+  border-left: 10rpx solid #4ec4c8;
+  border-bottom: 1rpx solid #eeeeee;
+}
+.in-info{
+  font-size: 32rpx;
+  font-family: "微软雅黑";
+  color:#606060;
+  line-height: 60rpx;
+  padding:16rpx;
+}
+.clear{
+  display: flex;
+  flex-direction: column;
+  height:16rpx;
+  background: #eeeeee;
+}
+.cell-td{
+  position: absolute
+}
+.detail-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  float: left;
+  background-color: #fff;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100rpx;
+  border-top: 1rpx #eeeeee solid;
+}
+.button-red {
+  background-color: #e40f00; /* 红色 */
+}
+.line_nav {
+  width: 5rpx;
+  height: 100%;
+  background-color: gainsboro;
+}
+.detail-nav image {
+  width: 70rpx;
+  height: 50rpx;
+  margin: 20rpx 40rpx;
+}
+button {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30rpx;
+  border-radius: 0rpx;
+  width: 30%;
+  height: 100%;
+  line-height: 100rpx;
+}
